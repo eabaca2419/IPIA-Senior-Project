@@ -31,7 +31,7 @@ The Board.html can also be found in your SDK installation:
 `mainThread()`. This thread then toggles the LED at a 1 second rate.
 
 ## Application Design Details
-
+ 
 TI-RTOS:
 
 * When building in Code Composer Studio, the kernel configuration project will
